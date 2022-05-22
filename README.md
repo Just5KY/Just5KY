@@ -57,7 +57,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/Just5KY/Just5KY">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Just5KY&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sky's GitHub Stats" />
 </a>
-
+</details>
+<details>
+<summary> Repos</summary>
 <a href="https://github.com/Just5KY/SkyPi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=SkyPi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
