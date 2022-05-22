@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on dockerizing honeypots and active defense tools
-- 🌱 I’m currently learning docker, python, kubernetes
+- 🌱 I’m currently learning docker, python, powershell & kubernetes
 - 👯 I’m looking to collaborate on Honeypot
 - 🤔 I’m looking for help with python
 - 💬 Ask me about my homelab
