@@ -4,15 +4,9 @@
 - 👯 I’m looking to collaborate on Honeypot
 - 🤔 I’m looking for help with python
 - 💬 Ask me about my homelab
-<!--
-**Just5KY/Just5KY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 📫 How to reach me: ...
--->
-
-## 🔧 Tools & Technologies
+<details>
+<summary> 🔧 Tools & Technologies</summary>
 #### OS
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -49,6 +43,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Proxmox-005571?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Virtualbox-005571?style=flat&logo=virtualbox&logoColor=white&color=2bbc8a)
 ****
+</details>
 <details>
 <summary>&#x1f4c8; GitHub Stats</summary>
 <a href="https://github.com/Just5KY/Just5KY">
