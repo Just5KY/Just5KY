@@ -60,9 +60,9 @@
 </a>
 
 
-#<a href="https://github.com/Just5KY/honeypots">
-#  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=honeypots&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-#</a>    
+<a href="https://github.com/Just5KY/honeypots">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=honeypots&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
 <a href="https://github.com/Just5KY/spidertrap">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=spidertrap&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
