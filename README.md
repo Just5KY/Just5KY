@@ -17,9 +17,7 @@
 ![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-#### Misc
-![](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+
 #### Communications
 ![](https://img.shields.io/badge/Discord-005571?style=flat&logo=discord&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Jira-005571?style=flat&logo=jira&logoColor=white&color=2bbc8a)
@@ -41,6 +39,10 @@
 ![](https://img.shields.io/badge/VMWare-005571?style=flat&logo=vmware&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Proxmox-005571?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Virtualbox-005571?style=flat&logo=virtualbox&logoColor=white&color=2bbc8a)
+
+#### Misc
+![](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ****
 <details>
 <summary>&#x1f4c8; GitHub Stats</summary>
