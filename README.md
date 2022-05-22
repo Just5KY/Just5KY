@@ -6,7 +6,7 @@
 - 💬 Ask me about my homelab
 
 ## 🔧 Tools & Technologies
-#### OS
+#### Platforms
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Android-005571?style=flat&logo=android&logoColor=white&color=2bbc8a)
