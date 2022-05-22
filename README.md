@@ -83,4 +83,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/Just5KY/scalyr-tool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=scalyr-tool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+  
+ <a href="https://github.com/Just5KY/.dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=.dotfiles&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+
+<a href="https://github.com/Just5KY/the-book-of-secret-knowledge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=the-book-of-secret-knowledge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 </details>
