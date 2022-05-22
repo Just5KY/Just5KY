@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on dockerizing honeypots and active defense tools
-- 🌱 I’m currently learning docker and python
+- 🌱 I’m currently learning docker, python, kubernetes
 - 👯 I’m looking to collaborate on Honeypot
 - 🤔 I’m looking for help with python
 - 💬 Ask me about my homelab
@@ -12,16 +12,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-## 🔧 Technologies & Tools
+## 🔧 Tools & Technologies
 #### OS
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Android-005571?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white&color=2bbc8a)
-#### Code
+#### Languages
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 #### Misc
 ![](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white&color=2bbc8a)
@@ -48,9 +49,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Proxmox-005571?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Virtualbox-005571?style=flat&logo=virtualbox&logoColor=white&color=2bbc8a)
 ****
-
-## &#x1f4c8; GitHub Stats
-
+<details>
+<summary>&#x1f4c8; GitHub Stats</summary>
 <a href="https://github.com/Just5KY/Just5KY">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just5KY&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
@@ -83,3 +83,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/Just5KY/scalyr-tool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=scalyr-tool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+</details>
