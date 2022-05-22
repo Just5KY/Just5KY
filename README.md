@@ -7,7 +7,8 @@
 
 ## 🔧 Tools & Technologies
 #### Platforms
-![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-CentOS-informational?style=flat&logo=centos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Android-005571?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white&color=2bbc8a)
@@ -18,15 +19,6 @@
 ![](https://img.shields.io/badge/-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-#### Communications
-![](https://img.shields.io/badge/Discord-005571?style=flat&logo=discord&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Jira-005571?style=flat&logo=jira&logoColor=white&color=2bbc8a)
-
-#### Wiki
-![](https://img.shields.io/badge/Confluence-005571?style=flat&logo=confluence&logoColor=white&color=2bbc8a)
-#### Endpoint
-![](https://img.shields.io/badge/Crowdstrike-005571?style=flat&logo=falcon&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Umbrella-005571?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
 #### SIEM and Logging
 ![](https://img.shields.io/badge/Grafana-005571?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OpenSearch-005571?style=flat&logo=OpenSearch&logoColor=white&color=2bbc8a)
@@ -35,10 +27,23 @@
 ![](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Graylog-005571?style=flat&logo=graylog&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SumoLogic-005571?style=flat&logo=sumologic&logoColor=white&color=2bbc8a)
+
+#### Endpoint
+![](https://img.shields.io/badge/Crowdstrike-005571?style=flat&logo=falcon&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Umbrella-005571?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
+
 #### Virtualization
 ![](https://img.shields.io/badge/VMWare-005571?style=flat&logo=vmware&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Proxmox-005571?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Virtualbox-005571?style=flat&logo=virtualbox&logoColor=white&color=2bbc8a)
+
+#### Communications
+![](https://img.shields.io/badge/Discord-005571?style=flat&logo=discord&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Jira-005571?style=flat&logo=jira&logoColor=white&color=2bbc8a)
+
+#### Wiki
+![](https://img.shields.io/badge/Confluence-005571?style=flat&logo=confluence&logoColor=white&color=2bbc8a)
+
 
 #### Misc
 ![](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white&color=2bbc8a)
