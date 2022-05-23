@@ -7,6 +7,8 @@
 - 🤔 I’m looking for help with python
 - 💬 Ask me about my homelab
 
+
+![](https://visitcount.itsvg.in/api?id=just5ky&icon=0&color=12)
 ## 🔧 Tools & Technologies
 #### Platforms
 ![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
@@ -59,6 +61,7 @@
 <a href="https://github.com/Just5KY/Just5KY">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Just5KY&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sky's GitHub Stats" />
 </a>
+<img align="center" src=https://github-profile-trophy.vercel.app/?username=just5ky&theme=radical&no-frame=false&no-bg=true&margin-w=4/>
 </details>
 <details>
 <summary> Repos</summary>
@@ -96,3 +99,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=the-book-of-secret-knowledge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 </details>
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
