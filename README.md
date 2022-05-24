@@ -56,19 +56,20 @@
 <details>
 <summary>&#x1f4c8; GitHub Stats</summary>
 <a href="https://github.com/Just5KY/Just5KY">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just5KY&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just5KY&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
 <a href="https://github.com/Just5KY/Just5KY">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Just5KY&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sky's GitHub Stats" />
 </a>
 <img align="center" src=https://github-profile-trophy.vercel.app/?username=just5ky&theme=radical&no-frame=false&no-bg=true&margin-w=4/>
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=just5ky&theme=tokyonight&hide_border=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&)<br/>
 </details>
 <details>
 <summary> Repos</summary>
 <a href="https://github.com/Just5KY/SkyPi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=SkyPi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 
 <a href="https://github.com/Just5KY/honeypots">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=honeypots&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
