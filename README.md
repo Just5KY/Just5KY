@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Android-005571?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white&color=2bbc8a)
-#### Languages
+#### Languages & Syntax 
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
