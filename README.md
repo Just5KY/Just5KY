@@ -100,5 +100,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just5KY&repo=the-book-of-secret-knowledge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 </details>
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="512px"/>
 
