@@ -41,17 +41,12 @@
 ![](https://img.shields.io/badge/Proxmox-005571?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Virtualbox-005571?style=flat&logo=virtualbox&logoColor=white&color=2bbc8a)
 
-#### Communications
-![](https://img.shields.io/badge/Discord-005571?style=flat&logo=discord&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Jira-005571?style=flat&logo=jira&logoColor=white&color=2bbc8a)
-
-#### Wiki
-![](https://img.shields.io/badge/Confluence-005571?style=flat&logo=confluence&logoColor=white&color=2bbc8a)
-
-
 #### Misc
 ![](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Discord-005571?style=flat&logo=discord&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Jira-005571?style=flat&logo=jira&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Confluence-005571?style=flat&logo=confluence&logoColor=white&color=2bbc8a)
 ****
 <details>
 <summary>&#x1f4c8; GitHub Stats</summary>
