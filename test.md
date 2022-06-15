@@ -1,4 +1,14 @@
+![LoliCount](https://count.getloli.com/get/@WSTxda?theme=asoul)<br>
+![LoliCount](https://count.getloli.com/get/@WSTxda?theme=gelbooru)<br>
+![LoliCount](https://count.getloli.com/get/@WSTxda?theme=moebooru)<br>
+![LoliCount](https://count.getloli.com/get/@WSTxda?theme=rule34)<br>
+<p>
+<img src="https://weather-icon.journeyad.repl.co/@india?v=1" align="right">
+</p>
+
+
 <img align="center" src="https://github.com/Just5KY/Just5KY/blob/main/JustSKY.png" />
+
 # 💫About Me :
 
     🔭 I’m currently working on dockerizing honeypots and active defense tools
