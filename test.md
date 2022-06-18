@@ -6,7 +6,6 @@
 <img src="https://weather-icon.journeyad.repl.co/@india?v=1" align="right">
 </p>
 
-
 <img align="center" src="https://github.com/Just5KY/Just5KY/blob/main/JustSKY.png" />
 
 # 💫About Me :
