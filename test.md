@@ -16,7 +16,6 @@
     🤔 I’m looking for help with python
     💬 Ask me about my homelab
 
-
 ## 🌐Socials
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/just__sky) 
 
