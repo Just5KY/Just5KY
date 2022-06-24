@@ -1,6 +1,7 @@
  <img align="center" src="https://github.com/Just5KY/Just5KY/blob/main/JustSKY.png" />
-
+<img  src="https://go-apod.herokuapp.com/image" alt="Astronomy Picture of the Day" width="300" align="right"/>
 ### Hi there 👋
+
 - 🔭 I’m currently working on dockerizing honeypots and active defense tools
 - 🌱 I’m currently learning docker, python, powershell & kubernetes
 - 👯 I’m looking to collaborate on Honeypot
@@ -9,6 +10,7 @@
 
 
 ![](https://visitcount.itsvg.in/api?id=just5ky&icon=0&color=12)
+
 ## 🔧 Tools & Technologies
 #### Platforms
 ![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
