@@ -1,4 +1,10 @@
 name: GitHub Skyline
+
+on:
+  schedule:
+    - cron:  '0 */8 * * *'
+  workflow_dispatch: #run manually
+
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.skyline.svg
